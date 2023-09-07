@@ -1,0 +1,25 @@
+2021-06-10 13:07:43 INFO  SearchFlightStepDefinition - website loaded
+2021-06-10 13:07:44 INFO  SearchFlightStepDefinition - usre navigated to home page
+2021-06-10 13:07:48 DEBUG SearchFlightStepDefinition - Selector By.xpath: //button[@class='login-btn btn btn-danger']  Clicked
+2021-06-10 13:07:48 INFO  SearchFlightStepDefinition - login tab is clicked
+2021-06-10 13:07:49 INFO  SearchFlightStepDefinition - clicked on login tab
+2021-06-10 13:07:50 INFO  SearchFlightStepDefinition - login page is open
+2021-06-10 13:07:50 INFO  SearchFlightStepDefinition - username entered in the filed
+2021-06-10 13:07:50 INFO  SearchFlightStepDefinition - lastname entered in the filed
+2021-06-10 13:07:51 INFO  SearchFlightStepDefinition - password entered in the filed
+2021-06-10 13:07:51 INFO  SearchFlightStepDefinition - all information entered
+2021-06-10 13:07:52 DEBUG SearchFlightStepDefinition - Selector By.xpath: //button[@type='submit']  Clicked
+2021-06-10 13:07:52 INFO  SearchFlightStepDefinition - login button cliked
+2021-06-10 13:07:53 INFO  SearchFlightStepDefinition - login button is clicked
+2021-06-10 13:08:58 INFO  SearchFlightStepDefinition - website loaded
+2021-06-10 13:08:59 INFO  SearchFlightStepDefinition - successfully navigated to home page
+2021-06-10 13:09:01 DEBUG SearchFlightStepDefinition - Selector By.id: fromAirportName  Clicked
+2021-06-10 13:09:01 INFO  SearchFlightStepDefinition - From location Entered
+2021-06-10 13:09:02 DEBUG SearchFlightStepDefinition - Selector By.id: toAirportName  Clicked
+2021-06-10 13:09:03 INFO  SearchFlightStepDefinition - To location Entered
+2021-06-10 13:09:03 DEBUG SearchFlightStepDefinition - Selector By.id: input_departureDate_1  Clicked
+2021-06-10 13:09:04 DEBUG SearchFlightStepDefinition - Selector By.xpath: //a[@aria-label='14 June 2021, Monday']  Clicked
+2021-06-10 13:09:04 DEBUG SearchFlightStepDefinition - Selector By.xpath: //a[@aria-label='18 June 2021, Friday']  Clicked
+2021-06-10 13:09:04 INFO  SearchFlightStepDefinition - Departure and Return date selected
+2021-06-10 13:09:04 DEBUG SearchFlightStepDefinition - Selector By.xpath: //button[@class='donebutton']  Clicked
+2021-06-10 13:09:04 INFO  SearchFlightStepDefinition - flight searched successfully

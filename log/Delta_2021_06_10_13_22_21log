@@ -1,0 +1,13 @@
+2021-06-10 13:23:12 INFO  SearchFlightStepDefinition - website loaded
+2021-06-10 13:23:13 INFO  SearchFlightStepDefinition - successfully navigated to home page
+2021-06-10 13:23:15 DEBUG SearchFlightStepDefinition - Selector By.id: fromAirportName  Clicked
+2021-06-10 13:23:15 INFO  SearchFlightStepDefinition - From location Entered
+2021-06-10 13:23:16 DEBUG SearchFlightStepDefinition - Selector By.id: toAirportName  Clicked
+2021-06-10 13:23:16 INFO  SearchFlightStepDefinition - To location Entered
+2021-06-10 13:23:16 DEBUG SearchFlightStepDefinition - Selector By.id: input_departureDate_1  Clicked
+2021-06-10 13:23:17 DEBUG SearchFlightStepDefinition - Selector By.xpath: //a[@aria-label='14 June 2021, Monday']  Clicked
+2021-06-10 13:23:17 DEBUG SearchFlightStepDefinition - Selector By.xpath: //a[@aria-label='18 June 2021, Friday']  Clicked
+2021-06-10 13:23:17 INFO  SearchFlightStepDefinition - Departure and Return date selected
+2021-06-10 13:23:17 DEBUG SearchFlightStepDefinition - Selector By.xpath: //button[@class='donebutton']  Clicked
+2021-06-10 13:23:18 ERROR SearchFlightStepDefinition - Selector By.id: btn-book-submit not clickable
+2021-06-10 13:23:19 INFO  SearchFlightStepDefinition - flight searched successfully

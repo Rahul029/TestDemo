@@ -1,0 +1,26 @@
+2021-06-10 12:25:39 INFO  SearchStepDefinition - website loaded
+2021-06-10 12:25:39 INFO  SearchStepDefinition - usre navigated to home page
+2021-06-10 12:25:45 DEBUG SearchStepDefinition - Selector By.xpath: //button[@class='login-btn btn btn-danger']  Clicked
+2021-06-10 12:25:45 INFO  SearchStepDefinition - login tab is clicked
+2021-06-10 12:25:45 INFO  SearchStepDefinition - clicked on login tab
+2021-06-10 12:25:46 INFO  SearchStepDefinition - login page is open
+2021-06-10 12:25:46 INFO  SearchStepDefinition - username entered in the filed
+2021-06-10 12:25:46 INFO  SearchStepDefinition - lastname entered in the filed
+2021-06-10 12:25:46 INFO  SearchStepDefinition - password entered in the filed
+2021-06-10 12:25:47 INFO  SearchStepDefinition - all information entered
+2021-06-10 12:25:47 DEBUG SearchStepDefinition - Selector By.xpath: //button[@type='submit']  Clicked
+2021-06-10 12:25:47 INFO  SearchStepDefinition - login button cliked
+2021-06-10 12:25:48 INFO  SearchStepDefinition - login button is clicked
+2021-06-10 12:26:38 INFO  SearchStepDefinition - website loaded
+2021-06-10 12:26:38 INFO  SearchStepDefinition - usre navigated to home page
+2021-06-10 12:26:45 DEBUG SearchStepDefinition - Selector By.xpath: //button[@class='login-btn btn btn-danger']  Clicked
+2021-06-10 12:26:45 INFO  SearchStepDefinition - login tab is clicked
+2021-06-10 12:26:45 INFO  SearchStepDefinition - clicked on login tab
+2021-06-10 12:26:46 INFO  SearchStepDefinition - login page is open
+2021-06-10 12:26:46 INFO  SearchStepDefinition - username entered in the filed
+2021-06-10 12:26:46 INFO  SearchStepDefinition - lastname entered in the filed
+2021-06-10 12:26:46 INFO  SearchStepDefinition - password entered in the filed
+2021-06-10 12:26:46 INFO  SearchStepDefinition - all information entered
+2021-06-10 12:26:47 DEBUG SearchStepDefinition - Selector By.xpath: //button[@type='submit']  Clicked
+2021-06-10 12:26:47 INFO  SearchStepDefinition - login button cliked
+2021-06-10 12:26:47 INFO  SearchStepDefinition - login button is clicked
